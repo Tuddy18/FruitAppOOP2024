@@ -3,4 +3,4 @@ project(FruitApp)
 
 add_subdirectory(Google_tests)
 
-add_executable(FruitAppExe src/main.cpp)
+add_executable(FruitAppExe src/main.cpp src/domain/Fruit.cpp)
