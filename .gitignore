@@ -1,4 +1,5 @@
 cmake-build-debug/
+Google_tests/lib/
 
 CMakeLists.txt.user
 CMakeCache.txt
